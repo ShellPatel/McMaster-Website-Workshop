@@ -8,4 +8,4 @@ I have no idea what I'm doing
 2. Pizza
 3. Doritos
 
-[Click link or begone] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Click link or begone](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
