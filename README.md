@@ -8,4 +8,4 @@ Here are my favourite foods
 2. Pizza
 3. Doritos
 
-[click link or begone] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Click link or begone] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
